@@ -2,3 +2,11 @@
     color: #000000;
     background-color: red;
 }
+
+.task {
+    background-color: purple;
+}
+
+.task.reminder {
+    background-color: green;
+}
